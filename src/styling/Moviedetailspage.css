@@ -1,0 +1,35 @@
+
+#headline {
+    text-align: center !important;
+    color: white;
+    font-size: xx-large;
+    text-align: left;
+    margin-bottom: 2px;
+    margin-top: 2rem;
+    
+}
+
+#movie-poster {
+    width: 400px;
+    border: 2px solid #ffffff
+}
+
+#favorite-marker1 {
+    margin-top: 1.5rem;
+    color: red;
+    justify-content: end;
+    text-align: end;
+}
+
+.movie-details {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.heart-container {
+    width: 60px;
+    display: inline-block; 
+    text-align: center;
+  }
+  
